@@ -18,7 +18,7 @@ I am eager to dive deeper into new technologies and apply my programming skills 
 ## 🛠️ Skills
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23178bca.svg?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -66,7 +66,7 @@ I am eager to dive deeper into new technologies and apply my programming skills 
   ![Game Dev](https://img.shields.io/badge/Game_Dev-478cbf?style=for-the-badge&logo=godotengine&logoColor=white)
 
 - **Cars & Driving**  
-  ![Cars](https://img.shields.io/badge/License%20categories-AM%2C%20B1%2C%20B-orange?style=for-the-badge)
+  ![Cars](https://img.shields.io/badge/License%20categories:-AM%2C%20B1%2C%20B-orange?style=for-the-badge)
 
 - **Traveling**  
   ![Traveling](https://img.shields.io/badge/Travel-FF6347?style=for-the-badge&logoColor=white)
