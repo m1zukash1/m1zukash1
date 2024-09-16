@@ -51,24 +51,3 @@ I am eager to dive deeper into new technologies and apply my programming skills 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🌱 Interests
-
-- **Open Source Software**  
-  ![OSS](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-  
-- **Linux**  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- **Game Development**  
-  ![Game Dev](https://img.shields.io/badge/Game_Dev-478cbf?style=for-the-badge&logo=godotengine&logoColor=white)
-
-- **Cars & Driving**  
-  ![Cars](https://img.shields.io/badge/License%20categories:-AM%2C%20B1%2C%20B-orange?style=for-the-badge)
-
-- **Traveling**  
-  ![Traveling](https://img.shields.io/badge/Travel-FF6347?style=for-the-badge&logoColor=white)
-
----
