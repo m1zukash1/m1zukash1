@@ -1,6 +1,6 @@
 # Elvinas Žukauskas
 
-**Third-Year IT Student | Payment Support Representative | Aspiring Software Engineer**
+**Software Engineer and third-Year IT Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinas-%C5%BEukauskas/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://m1zukash1.itch.io/)
@@ -8,10 +8,9 @@
 ---
 
 ## About Me
+Hi there! I'm Elvinas, a third-year IT student and Software Engineer with a strong background in programming, problem-solving, and technical support. I specialize in troubleshooting complex systems and delivering high-quality solutions. I'm passionate about software development, game development, and tackling technical challenges.
 
-Hi there! I'm Elvinas, a third-year IT student with hands-on experience in programming and problem-solving, currently working as a Payment Support Representative at Shift4. I am passionate about software development, game development, and creating solutions to technical challenges. My background involves troubleshooting complex systems, and I excel in delivering high-quality technical support and solutions.
-
-I am eager to dive deeper into new technologies and apply my programming skills to real-world projects. Aspiring to become a software engineer, I invite you to explore a collection of my university work, personal projects, and more that showcase my journey toward this goal.
+Always eager to explore new technologies and continuously apply my skills to real-world projects. Feel free to check out my university work, personal projects, and more to see my technical expertise in action.
 
 ---
 
