@@ -1,6 +1,6 @@
 # Elvinas Žukauskas
 
-**Software Engineer and third-Year IT Student**
+**Software Engineer | Third-Year IT Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinas-%C5%BEukauskas/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://m1zukash1.itch.io/)
