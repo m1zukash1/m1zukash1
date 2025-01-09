@@ -23,6 +23,7 @@ Always eager to explore new technologies and continuously apply my skills to rea
 ![GDScript](https://img.shields.io/badge/GDScript-%23178bca.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Frameworks & Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-%23ff0000.svg?style=for-the-badge&logoColor=white)
