@@ -19,16 +19,16 @@ Feel free to check out my university work, personal projects, and more to see my
 ## 🛠️ Skills
 
 ### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23178bca.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Frameworks & Tools
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%230064a3.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-%238CC445.svg?style=for-the-badge&logo=sfml&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%231b6ac6.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
